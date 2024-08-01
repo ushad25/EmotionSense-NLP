@@ -52,6 +52,9 @@ Two feature extraction methods were used:
 
 ![image](https://github.com/user-attachments/assets/d62c6619-7a98-4126-815e-abc6cbc82567)
 
+![image](https://github.com/user-attachments/assets/ddd2d39c-01ea-4763-a66d-2d9ac78fbcd0)
+
+
 ![image](https://github.com/user-attachments/assets/3848f748-2b64-4b09-ae55-4011bcf36d7b)
 
 
